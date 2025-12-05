@@ -1,35 +1,110 @@
-Event Name: Technex 2025-26
-Host Institute: St. Vincent Pallotti College of Engineering and Technology, Nagpur.
-Dates: December 18th and December 19th, 2025.
-Theme: "Neo-Celestia" (Exploring the new frontiers of space and tech).
+Event Name: Technex 2026 (Technex 2K26)
+[cite_start]Host Institute: St. Vincent Pallotti College of Engineering & Technology (SVPCET), Nagpur[cite: 3, 173].
+[cite_start]Institute Code (DTE): 04174[cite: 74].
+[cite_start]Location: Gavsi Manapur, Wardha Road, Nagpur, Maharashtra 441108[cite: 4].
+[cite_start]About Technex: Technex is the National Level Annual Technical Fest of SVPCET, recognized as Central India's largest Science and Technology Fest[cite: 159, 160]. [cite_start]It brings together over 3,000+ technology enthusiasts for creativity, competition, and collaboration[cite: 160].
 
---- KEY GUESTS ---
-Chief Guest (Opening Ceremony): IPS Ravindra Singhal (Commissioner of Police).
-Guest of Honor: Mr. Satya Nadella (Virtual Address).
+--- INSTITUTE LEADERSHIP ---
+Chairman & President: Dr. Fr. [cite_start]Joy Palachuvattil SAC[cite: 134].
+Director: Dr. Fr. [cite_start]Paul Chandrankunnel SAC[cite: 138].
+[cite_start]Principal: Dr. Surendra V. Gole[cite: 140].
+[cite_start]Vice Principal: Prof. Rajendra B. Gowardhan[cite: 141].
+Financial Administrators: Fr. Siju Jose SAC and Fr. [cite_start]Roby P. A. SAC[cite: 142, 143].
 
---- COMPETITIONS & PRIZES ---
-1. Grand Hackathon:
-   - Description: A 24-hour coding marathon.
-   - First Prize: 50,000 Rupees (Cash).
-   - Second Prize: 25,000 Rupees.
-   - Team Size: 4 members.
+
+
+--- TECHNEX CORE TEAM (2026) ---
+[cite_start]Faculty Coordinator: Prof. Shankar Gadhave[cite: 165].
+[cite_start]Faculty Advisor: Dr. Deepali Borakhade[cite: 166].
+[cite_start]Student Coordinators: Kartik Rao Barnala, Gunjan Dhore[cite: 167, 168].
+[cite_start]Co-Coordinators: Bhumika Verma, Kelvin Cherian[cite: 169, 170].
+[cite_start]Operations Leads: Vaibhav Varma (Lead), Sayali Bambal (Co-Lead)[cite: 172].
+[cite_start]Website Advisor : Pranav Shende (Lead), Harshad Seolkar (Gay)
+
+--- DEPARTMENTS & HODs ---
+1. [cite_start]Computer Science & Engineering (CSE): Dr. Manoj V. Bramhe (22 Faculty)[cite: 88, 90, 91].
+2. [cite_start]Information Technology (IT): Dr. Mrs. Shabana S. Pathan (10 Faculty)[cite: 92, 94, 95].
+3. [cite_start]CSE (Data Science): Dr. Manish B. Gudadhe (8 Faculty)[cite: 96, 97, 98].
+4. [cite_start]CSE (Cyber Security): Dr. Abhishek D. Pathak (7 Faculty)[cite: 99, 101, 102].
+5. [cite_start]CSBS (Business Systems): Dr. Praveen H. Sen (6 Faculty)[cite: 103, 104, 105].
+6. [cite_start]ETC Engineering: Dr. Harish V. Rajurkar (12 Faculty)[cite: 106, 107, 108].
+7. [cite_start]AI Engineering: Dr. Vikas G. Bhowate (9 Faculty)[cite: 109, 111, 112].
+8. [cite_start]Electrical Engineering: Dr. Mrs. Jyoti P. Rothe (11 Faculty)[cite: 113, 115, 116].
+9. [cite_start]Civil Engineering: Dr. Abhay G. Hirekhan (10 Faculty)[cite: 117, 119, 120].
+10. [cite_start]Mechanical Engineering: Dr. Sushant S. Satputaley (22 Faculty)[cite: 121, 123, 124].
+11. [cite_start]IoT Engineering: Dr. Shriraghavan R. Madbushi (7 Faculty)[cite: 125, 127, 128].
+12. [cite_start]Robotics Engineering: Dr. Amit R. Bhende (2 Faculty)[cite: 129, 130, 131].
+
+--- COMPETITIONS & EVENTS (TECHNEX 2026) ---
+[cite_start]Total Events: 13[cite: 174].
+
+1. Gameathon:
+   - [cite_start]Description: A 24-hour game development marathon to build playable prototypes from scratch[cite: 179].
+   - [cite_start]Student Coordinator: Manjosh Lilhare[cite: 176].
+   - [cite_start]Faculty Coordinator: Dr. Apritosh Gahnkari[cite: 178].
 
 2. Overdrive:
-   - Description: An obstacle course for custom-built bots.
-   - Prize Pool: 15,000 Rupees.
+   - [cite_start]Description: A high-octane robotics race navigating a multi-terrain arena with bridges and sand pits[cite: 184].
+   - [cite_start]Student Coordinator: Kaushal Bodakhe[cite: 181].
+   - [cite_start]Faculty Coordinator: Prof. Ashutosh Maske[cite: 183].
 
-3. Coastal Clash:
-   - Description: Aquatic boat wars.
-   - Prize: 10,000 Rupees.
+3. Vortex:
+   - [cite_start]Description: A 5v5 Valorant esports tournament focusing on tactical gameplay[cite: 189].
+   - [cite_start]Student Coordinator: Ajinkya Mariche[cite: 186].
+   - [cite_start]Faculty Coordinator: Prof. Nilesh Korde[cite: 188].
 
---- REGISTRATION & CONTACT ---
-Student Coordinator: Mr. Rochan Awasthi.
-Coordinator Phone: +91-9876543210.
-Registration Fee: 200 Rupees per participant (covers all events).
-Deadline: March 10th, 2025.
-Website: www.technex-pallotti.com.
+4. Envision:
+   - [cite_start]Description: A 24-hour offline Datathon using ML models and BI dashboards to solve real-world data problems[cite: 195, 196].
+   - [cite_start]Student Coordinator: Shrenik Nil[cite: 192].
+   - [cite_start]Faculty Coordinator: Prof. Sanket Joshi[cite: 194].
 
---- GENERAL RULES ---
-- All participants must carry valid college ID cards.
-- Accommodation is provided for outstation teams at the hostel.
-- Lunch is included in the registration fee.
+5. Mind2Market:
+   - [cite_start]Description: An entrepreneurial startup competition testing pitching and financial skills in a market simulation[cite: 201].
+   - [cite_start]Student Coordinator: Devansh Dubey[cite: 198].
+   - [cite_start]Faculty Coordinator: Dr. Kiran Khandarkar[cite: 200].
+
+6. Coastal Clash:
+   - [cite_start]Description: RC boat design and racing challenge in a water arena with obstacles[cite: 206].
+   - [cite_start]Student Coordinator: Sakshi Bondre[cite: 203].
+   - [cite_start]Faculty Coordinator: Dr. B. S. Bhaskar[cite: 205].
+
+7. Robo Sumo:
+   - [cite_start]Description: Combat robotics event where bots battle to push opponents out of a circular arena[cite: 211].
+   - [cite_start]Student Coordinator: Manasvi Wagh[cite: 208].
+   - [cite_start]Faculty Coordinator: Prof. Vikas Singh[cite: 210].
+
+8. Scrutinizing Humane:
+   - [cite_start]Description: Cyber-forensics mystery event involving financial data analysis and suspect interrogation[cite: 215].
+   - [cite_start]Student Coordinator: Ishan Bassin[cite: 212].
+   - [cite_start]Faculty Coordinator: Prof. Vikas Singh[cite: 214].
+
+9. Techquest:
+   - [cite_start]Description: QR-based treasure hunt combining physical exploration, coding, and logic puzzles[cite: 220].
+   - [cite_start]Student Coordinator: Vedant Ghatole[cite: 217].
+   - [cite_start]Faculty Coordinator: Prof. Vikas Singh[cite: 219].
+
+10. DesignX:
+    - [cite_start]Description: Infrastructure design competition using BIM tools like Revit for architectural models[cite: 225].
+    - [cite_start]Student Coordinator: Rohan Khole[cite: 222].
+    - [cite_start]Faculty Coordinator: Dr. Suyog Dhote[cite: 224].
+
+11. Drift - Fury:
+    - [cite_start]Description: RC car racing challenge testing speed and precision on sharp turns and drift zones[cite: 230].
+    - [cite_start]Student Coordinator: Yash Raghorte[cite: 227].
+    - [cite_start]Faculty Coordinator: Prof. Kunal Onkar[cite: 229].
+
+12. Gamers Conquest:
+    - [cite_start]Description: Esports event featuring BGMI squad battles and Real Cricket 24 solo matches[cite: 235, 236].
+    - [cite_start]Student Coordinator: Mihir Dhanore[cite: 232].
+    - [cite_start]Faculty Coordinator: Prof. Nilesh Korde[cite: 234].
+
+13. Hackathon:
+    - [cite_start]Description: National-level 24-hour innovation challenge to solve real-world problems and build prototypes[cite: 241].
+    - [cite_start]Student Coordinator: Sanika Yerpude[cite: 238].
+    - [cite_start]Faculty Coordinator: Dr. Aparitohsh Gahankari[cite: 240].
+
+--- CONTACT & ADMISSIONS ---
+[cite_start]Address: St. Vincent Pallotti College of Engineering & Technology, Gavsi Manapur, Wardha Road, Nagpur[cite: 70, 71].
+[cite_start]Admissions Phone: +91 7743979315 / +91 9699833757[cite: 72].
+[cite_start]General Email: info@stvincentngp.edu.in[cite: 73].
+[cite_start]Website: stvincentngp.edu.in[cite: 7].
