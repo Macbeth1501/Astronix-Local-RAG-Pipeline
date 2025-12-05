@@ -105,7 +105,7 @@ python main.py
 
 # 📂 Project Structure
 
-\`\`\`plaintext
+```plaintext
 Astronix-Local-RAG-Pipeline/
 ├── main.py              # Core logic: Integrates ASR, RAG, LLM, and TTS loops
 ├── build_memory.py      # ETL script: Loads text -> Chunks -> Embeds -> VectorDB
@@ -113,8 +113,7 @@ Astronix-Local-RAG-Pipeline/
 ├── technex_db/          # Persistent Vector Database (ChromaDB)
 ├── requirements.txt     # Python dependencies
 └── README.md            # Documentation
-\`\`\`
-
+```
 ---
 
 # 🔧 Troubleshooting
