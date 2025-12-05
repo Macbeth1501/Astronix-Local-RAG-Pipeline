@@ -80,18 +80,18 @@ ollama pull llama3.2:1b
 ## **Step 1: Ingest Data (Build Memory)**
 If this is your first run or if you have updated `technex_data.txt`:
 
-\`\`\`bash
+```bash
 python build_memory.py
-\`\`\`
+```
 
 This script chunks your text data, creates embeddings, and stores them in the local \`./technex_db\` vector store.
 
 ---
 
 ## **Step 2: Run the Pipeline**
-\`\`\`bash
+```bash
 python main.py
-\`\`\`
+```
 
 ---
 
