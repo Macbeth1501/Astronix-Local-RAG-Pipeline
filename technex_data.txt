@@ -1,110 +1,115 @@
 Event Name: Technex 2026 (Technex 2K26)
-[cite_start]Host Institute: St. Vincent Pallotti College of Engineering & Technology (SVPCET), Nagpur[cite: 3, 173].
-[cite_start]Institute Code (DTE): 04174[cite: 74].
-[cite_start]Location: Gavsi Manapur, Wardha Road, Nagpur, Maharashtra 441108[cite: 4].
-[cite_start]About Technex: Technex is the National Level Annual Technical Fest of SVPCET, recognized as Central India's largest Science and Technology Fest[cite: 159, 160]. [cite_start]It brings together over 3,000+ technology enthusiasts for creativity, competition, and collaboration[cite: 160].
-
+Host Institute: St. Vincent Pallotti College of Engineering & Technology (SVPCET), Nagpur.
+Institute Code (DTE): 04174.
+Location: Gavsi Manapur, Wardha Road, Nagpur, Maharashtra 441108.
+About Technex: Technex is the National Level Annual Technical Fest of SVPCET, recognized as Central India's largest Science and Technology Fest. It brings together over 3,000+ technology enthusiasts for creativity, competition, and collaboration.
 --- INSTITUTE LEADERSHIP ---
-Chairman & President: Dr. Fr. [cite_start]Joy Palachuvattil SAC[cite: 134].
-Director: Dr. Fr. [cite_start]Paul Chandrankunnel SAC[cite: 138].
-[cite_start]Principal: Dr. Surendra V. Gole[cite: 140].
-[cite_start]Vice Principal: Prof. Rajendra B. Gowardhan[cite: 141].
-Financial Administrators: Fr. Siju Jose SAC and Fr. [cite_start]Roby P. A. SAC[cite: 142, 143].
+Chairman & President: Dr. Fr. Joy Palachuvattil SAC.
+Director: Dr. Fr. Paul Chandrankunnel SAC.
+Principal: Dr. Surendra V. Gole.
+Vice Principal: Prof. Rajendra B. Gowardhan.
+Financial Administrators: Fr. Siju Jose SAC and Fr. Roby P. A. SAC.
+--- TECHNEX 2026 CORE TEAM (AUTHORITY LIST) ---
+Faculty Coordinator: Prof. Shankar Gadhave.
+Faculty Co-Coordinator: Dr. Suyog Dhote.
+Technical Advisory Member: Dr. Deepali Borakhade.
+III Cell Coordinator: Dr. Manoj V. Bramhe.
 
-
-
---- TECHNEX CORE TEAM (2026) ---
-[cite_start]Faculty Coordinator: Prof. Shankar Gadhave[cite: 165].
-[cite_start]Faculty Advisor: Dr. Deepali Borakhade[cite: 166].
-[cite_start]Student Coordinators: Kartik Rao Barnala, Gunjan Dhore[cite: 167, 168].
-[cite_start]Co-Coordinators: Bhumika Verma, Kelvin Cherian[cite: 169, 170].
-[cite_start]Operations Leads: Vaibhav Varma (Lead), Sayali Bambal (Co-Lead)[cite: 172].
-
-
+**Main Student Coordinators:** Kartik Rao Barnala, Gunjan Dhore.
+**Co-Coordinators:** Bhumika Verma, Kelvin Cherian.
+**Operations Leads:** Vaibhav Varma (Lead), Sayali Bambal (Co-Lead).
+**Mentors:** Mukul Potdar, Abhishrut Rokade, Chaitanya Parmar, Atharva Zade.
 --- DEPARTMENTS & HODs ---
-1. [cite_start]Computer Science & Engineering (CSE): Dr. Manoj V. Bramhe (22 Faculty)[cite: 88, 90, 91].
-2. [cite_start]Information Technology (IT): Dr. Mrs. Shabana S. Pathan (10 Faculty)[cite: 92, 94, 95].
-3. [cite_start]CSE (Data Science): Dr. Manish B. Gudadhe (8 Faculty)[cite: 96, 97, 98].
-4. [cite_start]CSE (Cyber Security): Dr. Abhishek D. Pathak (7 Faculty)[cite: 99, 101, 102].
-5. [cite_start]CSBS (Business Systems): Dr. Praveen H. Sen (6 Faculty)[cite: 103, 104, 105].
-6. [cite_start]ETC Engineering: Dr. Harish V. Rajurkar (12 Faculty)[cite: 106, 107, 108].
-7. [cite_start]AI Engineering: Dr. Vikas G. Bhowate (9 Faculty)[cite: 109, 111, 112].
-8. [cite_start]Electrical Engineering: Dr. Mrs. Jyoti P. Rothe (11 Faculty)[cite: 113, 115, 116].
-9. [cite_start]Civil Engineering: Dr. Abhay G. Hirekhan (10 Faculty)[cite: 117, 119, 120].
-10. [cite_start]Mechanical Engineering: Dr. Sushant S. Satputaley (22 Faculty)[cite: 121, 123, 124].
-11. [cite_start]IoT Engineering: Dr. Shriraghavan R. Madbushi (7 Faculty)[cite: 125, 127, 128].
-12. [cite_start]Robotics Engineering: Dr. Amit R. Bhende (2 Faculty)[cite: 129, 130, 131].
+
+Computer Science & Engineering (CSE): Dr. Manoj V. Bramhe (22 Faculty).
+Information Technology (IT): Dr. Mrs. Shabana S. Pathan (10 Faculty).
+CSE (Data Science): Dr. Manish B. Gudadhe (8 Faculty).
+CSE (Cyber Security): Dr. Abhishek D. Pathak (7 Faculty).
+CSBS (Business Systems): Dr. Praveen H. Sen (6 Faculty).
+ETC Engineering: Dr. Harish V. Rajurkar (12 Faculty).
+AI Engineering: Dr. Vikas G. Bhowate (9 Faculty).
+Electrical Engineering: Dr. Mrs. Jyoti P. Rothe (11 Faculty).
+Civil Engineering: Dr. Abhay G. Hirekhan (10 Faculty).
+Mechanical Engineering: Dr. Sushant S. Satputaley (22 Faculty).
+IoT Engineering: Dr. Shriraghavan R. Madbushi (7 Faculty).
+Robotics Engineering: Dr. Amit R. Bhende (2 Faculty).
 
 --- COMPETITIONS & EVENTS (TECHNEX 2026) ---
-[cite_start]Total Events: 13[cite: 174].
+Total Events: 13.
 
-1. Gameathon:
-   - [cite_start]Description: A 24-hour game development marathon to build playable prototypes from scratch[cite: 179].
-   - [cite_start]Student Coordinator: Manjosh Lilhare[cite: 176].
-   - [cite_start]Faculty Coordinator: Dr. Apritosh Gahnkari[cite: 178].
+Gameathon:
+Description: A 24-hour game development marathon to build playable prototypes from scratch.
+Student Coordinator: Manjosh Lilhare.
+Faculty Coordinator: Dr. Apritosh Gahnkari.
 
-2. Overdrive:
-   - [cite_start]Description: A high-octane robotics race navigating a multi-terrain arena with bridges and sand pits[cite: 184].
-   - [cite_start]Student Coordinator: Kaushal Bodakhe[cite: 181].
-   - [cite_start]Faculty Coordinator: Prof. Ashutosh Maske[cite: 183].
+Overdrive:
+Description: A high-octane robotics race navigating a multi-terrain arena containing various obstacles like sand pit and bridges..
+Student Coordinator: Kaushal Bodakhe.
+Faculty Coordinator: Prof. Ashutosh Maske.
 
-3. Vortex:
-   - [cite_start]Description: A 5v5 Valorant esports tournament focusing on tactical gameplay[cite: 189].
-   - [cite_start]Student Coordinator: Ajinkya Mariche[cite: 186].
-   - [cite_start]Faculty Coordinator: Prof. Nilesh Korde[cite: 188].
+Vortex:
+Description: A 5v5 Valorant esports tournament focusing on tactical gameplay.
+Student Coordinator: Ajinkya Mariche.
+Faculty Coordinator: Prof. Nilesh Korde.
 
-4. Envision:
-   - [cite_start]Description: A 24-hour offline Datathon using ML models and BI dashboards to solve real-world data problems[cite: 195, 196].
-   - [cite_start]Student Coordinator: Shrenik Nil[cite: 192].
-   - [cite_start]Faculty Coordinator: Prof. Sanket Joshi[cite: 194].
+Envision:
+Description: A 24-hour offline Datathon using ML models and BI dashboards to solve real-world data problems.
+Student Coordinator: Shrenik Nil.
+Faculty Coordinator: Prof. Sanket Joshi.
 
-5. Mind2Market:
-   - [cite_start]Description: An entrepreneurial startup competition testing pitching and financial skills in a market simulation[cite: 201].
-   - [cite_start]Student Coordinator: Devansh Dubey[cite: 198].
-   - [cite_start]Faculty Coordinator: Dr. Kiran Khandarkar[cite: 200].
+Mind2Market:
+Description: An entrepreneurial startup competition testing pitching and financial skills in a market simulation.
+Student Coordinator: Devansh Dubey.
+Faculty Coordinator: Dr. Kiran Khandarkar.
 
-6. Coastal Clash:
-   - [cite_start]Description: RC boat design and racing challenge in a water arena with obstacles[cite: 206].
-   - [cite_start]Student Coordinator: Sakshi Bondre[cite: 203].
-   - [cite_start]Faculty Coordinator: Dr. B. S. Bhaskar[cite: 205].
+Coastal Clash:
+Description: RC boat design and racing challenge in a water arena with obstacles.
+Student Coordinator: Sakshi Bondre.
+Faculty Coordinator: Dr. B. S. Bhaskar.
 
-7. Robo Sumo:
-   - [cite_start]Description: Combat robotics event where bots battle to push opponents out of a circular arena[cite: 211].
-   - [cite_start]Student Coordinator: Manasvi Wagh[cite: 208].
-   - [cite_start]Faculty Coordinator: Prof. Vikas Singh[cite: 210].
+Robo Sumo:
+Description: Combat robotics event where bots battle to push opponents out of a circular arena.
+Student Coordinator: Manasvi Wagh.
+Faculty Coordinator: Prof. Vikas Singh.
 
-8. Scrutinizing Humane:
-   - [cite_start]Description: Cyber-forensics mystery event involving financial data analysis and suspect interrogation[cite: 215].
-   - [cite_start]Student Coordinator: Ishan Bassin[cite: 212].
-   - [cite_start]Faculty Coordinator: Prof. Vikas Singh[cite: 214].
+Drift - Fury:
+Description: RC car racing challenge testing speed and precision on sharp turns and drift zones.
+Student Coordinator: Yash Raghorte.
+Faculty Coordinator: Prof. Kunal Onkar.
 
-9. Techquest:
-   - [cite_start]Description: QR-based treasure hunt combining physical exploration, coding, and logic puzzles[cite: 220].
-   - [cite_start]Student Coordinator: Vedant Ghatole[cite: 217].
-   - [cite_start]Faculty Coordinator: Prof. Vikas Singh[cite: 219].
+Gamers Conquest:
+Description: Esports event featuring BGMI squad battles and Real Cricket 24 solo matches.
+Student Coordinator: Mihir Dhanore.
+Faculty Coordinator: Prof. Nilesh Korde.
 
-10. DesignX:
-    - [cite_start]Description: Infrastructure design competition using BIM tools like Revit for architectural models[cite: 225].
-    - [cite_start]Student Coordinator: Rohan Khole[cite: 222].
-    - [cite_start]Faculty Coordinator: Dr. Suyog Dhote[cite: 224].
+Hackathon:
+Description: National-level 24-hour innovation challenge to solve real-world problems and build prototypes.
+Student Coordinator: Sanika Yerpude.
+Faculty Coordinator: Dr. Aparitohsh Gahankari.
 
-11. Drift - Fury:
-    - [cite_start]Description: RC car racing challenge testing speed and precision on sharp turns and drift zones[cite: 230].
-    - [cite_start]Student Coordinator: Yash Raghorte[cite: 227].
-    - [cite_start]Faculty Coordinator: Prof. Kunal Onkar[cite: 229].
+Synergy Sphere:
+Description: Its a new initiative to make the technex experience better and adds a fun element to it. It encompases 3 events within it.
 
-12. Gamers Conquest:
-    - [cite_start]Description: Esports event featuring BGMI squad battles and Real Cricket 24 solo matches[cite: 235, 236].
-    - [cite_start]Student Coordinator: Mihir Dhanore[cite: 232].
-    - [cite_start]Faculty Coordinator: Prof. Nilesh Korde[cite: 234].
+A. Scrutinizing Humane:
 
-13. Hackathon:
-    - [cite_start]Description: National-level 24-hour innovation challenge to solve real-world problems and build prototypes[cite: 241].
-    - [cite_start]Student Coordinator: Sanika Yerpude[cite: 238].
-    - [cite_start]Faculty Coordinator: Dr. Aparitohsh Gahankari[cite: 240].
+Description: Cyber-forensics mystery event involving financial data analysis and suspect interrogation.
+Student Coordinator: Ishan Bassin.
+Faculty Coordinator: Prof. Vikas Singh.
 
---- CONTACT & ADMISSIONS ---
-[cite_start]Address: St. Vincent Pallotti College of Engineering & Technology, Gavsi Manapur, Wardha Road, Nagpur[cite: 70, 71].
-[cite_start]Admissions Phone: +91 7743979315 / +91 9699833757[cite: 72].
-[cite_start]General Email: info@stvincentngp.edu.in[cite: 73].
-[cite_start]Website: stvincentngp.edu.in[cite: 7].
+B. Techquest:
+
+Description: QR-based treasure hunt combining physical exploration, coding, and logic puzzles.
+Student Coordinator: Vedant Ghatole.
+Faculty Coordinator: Prof. Vikas Singh.
+
+C. DesignX:
+
+Description: Infrastructure design competition using BIM tools like Revit for architectural models.
+Student Coordinator: Himanshu Pisar.
+Faculty Coordinator: Dr. Suyog Dhote.
+
+--- CONTACT  ---
+Address: St. Vincent Pallotti College of Engineering & Technology, Gavsi Manapur, Wardha Road, Nagpur.
+Phone: +91 77578 72997 / +91 78881 14475.
+Email: technex@stvincentngp.edu.in.
+Website: https://technexsvpcet.com/.
