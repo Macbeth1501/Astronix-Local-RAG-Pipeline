@@ -1,0 +1,115 @@
+Event Name: Technex 2026 (Technex 2K26)
+Host Institute: St. Vincent Pallotti College of Engineering & Technology (SVPCET), Nagpur.
+Institute Code (DTE): 04174.
+Location: Gavsi Manapur, Wardha Road, Nagpur, Maharashtra 441108.
+About Technex: Technex is the National Level Annual Technical Fest of SVPCET, recognized as Central India's largest Science and Technology Fest. It brings together over 3,000+ technology enthusiasts for creativity, competition, and collaboration.
+--- INSTITUTE LEADERSHIP ---
+Chairman & President: Dr. Fr. Joy Palachuvattil SAC.
+Director: Dr. Fr. Paul Chandrankunnel SAC.
+Principal: Dr. Surendra V. Gole.
+Vice Principal: Prof. Rajendra B. Gowardhan.
+Financial Administrators: Fr. Siju Jose SAC and Fr. Roby P. A. SAC.
+--- TECHNEX 2026 CORE TEAM (AUTHORITY LIST) ---
+Faculty Coordinator: Prof. Shankar Gadhave.
+Faculty Co-Coordinator: Dr. Suyog Dhote.
+Technical Advisory Member: Dr. Deepali Borakhade.
+III Cell Coordinator: Dr. Manoj V. Bramhe.
+
+**Main Student Coordinators:** Kartik Rao Barnala, Gunjan Dhore.
+**Co-Coordinators:** Bhumika Verma, Kelvin Cherian.
+**Operations Leads:** Vaibhav Varma (Lead), Sayali Bambal (Co-Lead).
+**Mentors:** Mukul Potdar, Abhishrut Rokade, Chaitanya Parmar, Atharva Zade.
+--- DEPARTMENTS & HODs ---
+
+Computer Science & Engineering (CSE): Dr. Manoj V. Bramhe (22 Faculty).
+Information Technology (IT): Dr. Mrs. Shabana S. Pathan (10 Faculty).
+CSE (Data Science): Dr. Manish B. Gudadhe (8 Faculty).
+CSE (Cyber Security): Dr. Abhishek D. Pathak (7 Faculty).
+CSBS (Business Systems): Dr. Praveen H. Sen (6 Faculty).
+ETC Engineering: Dr. Harish V. Rajurkar (12 Faculty).
+AI Engineering: Dr. Vikas G. Bhowate (9 Faculty).
+Electrical Engineering: Dr. Mrs. Jyoti P. Rothe (11 Faculty).
+Civil Engineering: Dr. Abhay G. Hirekhan (10 Faculty).
+Mechanical Engineering: Dr. Sushant S. Satputaley (22 Faculty).
+IoT Engineering: Dr. Shriraghavan R. Madbushi (7 Faculty).
+Robotics Engineering: Dr. Amit R. Bhende (2 Faculty).
+
+--- COMPETITIONS & EVENTS (TECHNEX 2026) ---
+Total Events: 13.
+
+Gameathon:
+Description: A 24-hour game development marathon to build playable prototypes from scratch.
+Student Coordinator: Manjosh Lilhare.
+Faculty Coordinator: Dr. Apritosh Gahnkari.
+
+Overdrive:
+Description: A high-octane robotics race navigating a multi-terrain arena containing various obstacles like sand pit and bridges..
+Student Coordinator: Kaushal Bodakhe.
+Faculty Coordinator: Prof. Ashutosh Maske.
+
+Vortex:
+Description: A 5v5 Valorant esports tournament focusing on tactical gameplay.
+Student Coordinator: Ajinkya Mariche.
+Faculty Coordinator: Prof. Nilesh Korde.
+
+Envision:
+Description: A 24-hour offline Datathon using ML models and BI dashboards to solve real-world data problems.
+Student Coordinator: Shrenik Nil.
+Faculty Coordinator: Prof. Sanket Joshi.
+
+Mind2Market:
+Description: An entrepreneurial startup competition testing pitching and financial skills in a market simulation.
+Student Coordinator: Devansh Dubey.
+Faculty Coordinator: Dr. Kiran Khandarkar.
+
+Coastal Clash:
+Description: RC boat design and racing challenge in a water arena with obstacles.
+Student Coordinator: Sakshi Bondre.
+Faculty Coordinator: Dr. B. S. Bhaskar.
+
+Robo Sumo:
+Description: Combat robotics event where bots battle to push opponents out of a circular arena.
+Student Coordinator: Manasvi Wagh.
+Faculty Coordinator: Prof. Vikas Singh.
+
+Drift - Fury:
+Description: RC car racing challenge testing speed and precision on sharp turns and drift zones.
+Student Coordinator: Yash Raghorte.
+Faculty Coordinator: Prof. Kunal Onkar.
+
+Gamers Conquest:
+Description: Esports event featuring BGMI squad battles and Real Cricket 24 solo matches.
+Student Coordinator: Mihir Dhanore.
+Faculty Coordinator: Prof. Nilesh Korde.
+
+Hackathon:
+Description: National-level 24-hour innovation challenge to solve real-world problems and build prototypes.
+Student Coordinator: Sanika Yerpude.
+Faculty Coordinator: Dr. Aparitohsh Gahankari.
+
+Synergy Sphere:
+Description: Its a new initiative to make the technex experience better and adds a fun element to it. It encompases 3 events within it.
+
+A. Scrutinizing Humane:
+
+Description: Cyber-forensics mystery event involving financial data analysis and suspect interrogation.
+Student Coordinator: Ishan Bassin.
+Faculty Coordinator: Prof. Vikas Singh.
+
+B. Techquest:
+
+Description: QR-based treasure hunt combining physical exploration, coding, and logic puzzles.
+Student Coordinator: Vedant Ghatole.
+Faculty Coordinator: Prof. Vikas Singh.
+
+C. DesignX:
+
+Description: Infrastructure design competition using BIM tools like Revit for architectural models.
+Student Coordinator: Himanshu Pisar.
+Faculty Coordinator: Dr. Suyog Dhote.
+
+--- CONTACT  ---
+Address: St. Vincent Pallotti College of Engineering & Technology, Gavsi Manapur, Wardha Road, Nagpur.
+Phone: +91 77578 72997 / +91 78881 14475.
+Email: technex@stvincentngp.edu.in.
+Website: https://technexsvpcet.com/.

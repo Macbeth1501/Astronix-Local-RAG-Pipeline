@@ -1,8 +1,10 @@
 import os
+import shutil
 from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import Chroma
-from langchain_community.embeddings import FastEmbedEmbeddings
+# 1. CHANGED: Import Ollama instead of FastEmbed
+from langchain_community.embeddings import OllamaEmbeddings
 
 # Configuration
 DATA_FILE = "technex_data.txt"
@@ -14,23 +16,29 @@ def build_database():
         print(f"❌ Error: {DATA_FILE} not found!")
         return
 
+    # PRE-CLEANUP: Automatically delete old DB to prevent dimension errors
+    if os.path.exists(DB_PATH):
+        print(f"🧹 Deleting old database at {DB_PATH} to avoid conflicts...")
+        shutil.rmtree(DB_PATH)
+
     print("📄 Loading data...")
     loader = TextLoader(DATA_FILE, encoding="utf-8")
     documents = loader.load()
 
-    # 2. Split text into chunks (AI can't read whole books at once)
+    # 2. Split text into chunks
     print("✂️  Splitting text into chunks...")
     text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=500,     # Characters per chunk
-        chunk_overlap=50    # Overlap to keep context
+        chunk_size=600,    
+        chunk_overlap=100
     )
     chunks = text_splitter.split_documents(documents)
     print(f"   -> Created {len(chunks)} chunks.")
 
     # 3. Create Vector Store
-    print("🧠 Embedding and storing in ChromaDB (this runs on CPU)...")
-    # We use FastEmbed (lightweight, no GPU needed)
-    embeddings = FastEmbedEmbeddings(model_name="BAAI/bge-small-en-v1.5")
+    print("🧠 Embedding and storing in ChromaDB (using Local Ollama)...")
+    
+    # 2. CHANGED: Use Ollama with the Nomic model (Size 768)
+    embeddings = OllamaEmbeddings(model="nomic-embed-text")
     
     # This creates the DB folder
     db = Chroma.from_documents(

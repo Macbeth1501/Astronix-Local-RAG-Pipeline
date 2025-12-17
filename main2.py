@@ -8,25 +8,47 @@ import ollama
 import pyttsx3
 from faster_whisper import WhisperModel
 from langchain_community.vectorstores import Chroma
-from langchain_community.embeddings import FastEmbedEmbeddings
+from langchain_community.embeddings import OllamaEmbeddings
 
 # --- CONFIGURATION ---
 WHISPER_DEVICE = "cpu"       
 WHISPER_COMPUTE = "int8"
-LLM_MODEL = "llama3.2:1b" #smaller model| we will use 8b model
-#LLM_MODEL = "llama3.1"
+#LLM_MODEL = "llama3.2:1b" #smaller model| we will use 8b model
+LLM_MODEL = "llama3.1"
+# 2. NEW: Define the embedding model name
+EMBEDDING_MODEL = "nomic-embed-text"
 DB_PATH = "./technex_db"
 KEYWORDS = "Technex,  Rochan Awasthi, Hackathon, Neo-Celestia, Synergy Sphere, St. Vincent Pallotti College of Engineering & Technology"
 
+# 1. NEW: Triggers that force the bot to look into the Database
+DOMAIN_TRIGGERS = [
+    "technex", "technics","techniques" ,"pallotti", "college", "svpcet", "nagpur",
+    "event", "competition", "hackathon", "gameathon", "overdrive", 
+    "vortex", "envision", "mind2market", "coastal clash", "robo sumo", 
+    "drift", "gamers conquest", "scrutinizing", "techquest", "designx",
+    "synergy sphere", "rochan", "shankar", "kartik", "gunjan", "vaibhav",
+    "guest", "prize", "fee", "register", "date", "venue", "location",
+    "coordinator", "hod", "department", "schedule", "rule", "winner",
+    "list", "many events", "all events" ,"Student " , "Coordinator"
+]
+
 # The Persona
-SYSTEM_PROMPT = """
+RAG_SYSTEM_PROMPT = """
 You are Astronix, the AI mascot for Technex 2025.
 Use the provided Context to answer the student's question.
 If the answer is not in the context, say "I don't have that info."
 Keep your answers SHORT and ENTHUSIASTIC.
 If the user asks for "Technics", assume they mean "Technex".
-If a user mentions Techniques, treat it as a reference to Technex.
+If a user mentions Techniques or techniques, interpret it as a reference to Technex.
 """
+
+GENERAL_SYSTEM_PROMPT = """
+You are Astronix, a helpful AI assistant.
+1. The user is asking a general knowledge question (not about Technex).
+2. Answer based on your own general knowledge.
+3. Keep it SHORT, friendly, and smart.
+"""
+
 #Keep your answers SHORT (1-2 sentences max) and enthusiastic!
 def speak(text):
     """
@@ -54,6 +76,15 @@ def speak(text):
     except Exception as e:
         print(f"❌ Voice Error: {e}")
 
+# 3. NEW: The Router Function
+def is_domain_query(text):
+    """Checks if the user is asking about the Event/College"""
+    text = text.lower()
+    for trigger in DOMAIN_TRIGGERS:
+        if trigger in text:
+            return True
+    return False
+
 def main():
     print("\n🚀 INITIALIZING ASTRONIX 1.0...")
     
@@ -61,9 +92,16 @@ def main():
     print("   EARS: Loading Whisper...")
     ear_model = WhisperModel("base.en", device=WHISPER_DEVICE, compute_type=WHISPER_COMPUTE)
     
-    # --- LOAD MEMORY ---
-    print("   MEMORY: Loading ChromaDB...")
-    embedding_function = FastEmbedEmbeddings(model_name="BAAI/bge-small-en-v1.5")
+   
+    # 3. CHANGED: Initialize OllamaEmbeddings (Runs locally, no HuggingFace download needed)
+    print(f"   MEMORY: Loading ChromaDB with {EMBEDDING_MODEL}...")
+    embedding_function = OllamaEmbeddings(model=EMBEDDING_MODEL)
+    
+    # Ensure the DB directory exists to avoid errors on first run
+    if not os.path.exists(DB_PATH):
+        os.makedirs(DB_PATH)
+        print("   ⚠️ WARNING: Database folder not found. Created empty folder.")
+        
     db = Chroma(persist_directory=DB_PATH, embedding_function=embedding_function)
     
     print("\n✅ SYSTEM ONLINE! (Press and HOLD 's' to speak)")
@@ -105,7 +143,8 @@ def main():
             
             if len(user_text) < 2:
                 continue 
-            # --- SOCIAL FILTER (The Fix) ---
+            
+            # --- SOCIAL FILTER ---
             # Handles greetings without checking the database
             lower_text = user_text.lower()
             if "thank" in lower_text:
@@ -119,18 +158,32 @@ def main():
                 break
             # -------------------------------
 
-            # 4. RETRIEVE
-            results = db.similarity_search(user_text, k=3)
-            context_text = "\n".join([doc.page_content for doc in results])
+            # 4. HYBRID ROUTING LOGIC (NEW FEATURE)
+            # We decide which "Brain" to use based on the question
             
-            # 5. THINK
-            final_prompt = f"Context: {context_text}\n\nQuestion: {user_text}"
-            
+            if is_domain_query(user_text):
+                print("🔍 Mode: RAG (Checking Database...)")
+                # -- RAG PATH --
+                results = db.similarity_search(user_text, k=3)
+                context_text = "\n".join([doc.page_content for doc in results])
+                
+                # Use the RAG Prompt
+                final_system_prompt = RAG_SYSTEM_PROMPT
+                final_user_prompt = f"Context: {context_text}\n\nQuestion: {user_text}"
+                
+            else:
+                print("🧠 Mode: GENERAL (Using General Knowledge...)")
+                # -- GENERAL PATH --
+                # No database search, no context injection
+                final_system_prompt = GENERAL_SYSTEM_PROMPT
+                final_user_prompt = user_text
+
+            # 5. THINK (Corrected to use variables from Router)
             response = ollama.chat(
                 model=LLM_MODEL,
                 messages=[
-                    {'role': 'system', 'content': SYSTEM_PROMPT},
-                    {'role': 'user', 'content': final_prompt}
+                    {'role': 'system', 'content': final_system_prompt},
+                    {'role': 'user', 'content': final_user_prompt}
                 ]
             )
             
